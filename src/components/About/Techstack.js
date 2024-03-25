@@ -9,9 +9,12 @@ import {
   DiPython,
   DiGit,
   DiJava,
+  DiCss3,
+  DiDocker,
+  DiLinux,
+
 } from "react-icons/di";
 import {
-  SiRedis,
   SiFirebase,
   SiNextdotjs,
   SiSolidity,
@@ -53,7 +56,16 @@ function Techstack() {
         <SiFirebase />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiRedis />
+        <DiCss3 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiDocker />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiFirebase />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiLinux />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPostgresql />
