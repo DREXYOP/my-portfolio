@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am Debadithya Ray Barman, an teenage developer 👻
+              I am Debadithya Ray Barman, A teenage developer 👻
               <br />
               <br />I know languages like
               <i>
@@ -61,6 +61,9 @@ function Home2() {
             <h1>FIND ME ON</h1>
             <p>
               Feel free to <span className="purple">connect </span>with me
+            </p>
+            <p>
+              My <span className="purple">e-mail</span> - debadithyaraybarman257@gmail.com
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
