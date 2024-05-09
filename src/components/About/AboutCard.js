@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             I am currently working on my personal projects as well as on building my very own company..
             <br />
-            I have been coding from almost 5 years and now learning about Servers, Networking and Buisness.
+            I have been coding from almost 4 years and now learning about Servers, Networking and Buisness.
             <br />
             <br />
             Apart from coding, I do!
