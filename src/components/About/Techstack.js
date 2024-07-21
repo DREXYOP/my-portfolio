@@ -10,14 +10,12 @@ import {
   DiGit,
   DiJava,
   DiCss3,
-  DiDocker,
-  DiLinux,
+  DiDocker
 
 } from "react-icons/di";
 import {
   SiFirebase,
   SiNextdotjs,
-  SiSolidity,
   SiPostgresql,
   SiTypescript
 } from "react-icons/si";
